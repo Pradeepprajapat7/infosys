@@ -1,0 +1,25 @@
+today work...
+
+
+import pandas as pd
+
+# Create a simple DataFrame
+data = {
+    'Name': ['Pradeep', 'Aman', 'Ravi', 'Sita'],
+    'Age': [21, 22, 20, 23],
+    'Marks': [85, 90, 78, 88]
+}
+
+df = pd.DataFrame(data)
+
+# Display the DataFrame
+print("Student Data:")
+print(df)
+
+# Display basic info
+print("\nBasic Info:")
+print(df.info())
+
+# Show average marks
+print("\nAverage Marks:", df['Marks'].mean())
+
