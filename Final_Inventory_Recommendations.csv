@@ -1,0 +1,53 @@
+product_id,total_revenue,stock_level,days_supply,action_recommendation,price_position
+bed1,45.95,51,5.706293706293707,URGENT: Order Now,Budget (Lower than Comp)
+garden5,419.40000000000003,1,0.12389380530973451,URGENT: Order Now,Matched Price
+consoles1,258.7,90,7.605633802816901,Warning: Monitor,Matched Price
+garden7,59.9,54,7.51304347826087,Warning: Monitor,Matched Price
+health9,219.89,1,0.06405693950177936,URGENT: Order Now,Matched Price
+cool4,134.99,53,4.416666666666667,URGENT: Order Now,Premium (Higher than Comp)
+health3,110.99,99,5.076923076923077,URGENT: Order Now,Premium (Higher than Comp)
+perfumery1,227.96,61,5.746376811594203,URGENT: Order Now,Matched Price
+cool5,199.98,44,5.896907216494845,URGENT: Order Now,Matched Price
+health8,539.9399999999999,34,2.2316602316602316,URGENT: Order Now,Premium (Higher than Comp)
+garden4,778.6999999999999,98,3.536082474226804,URGENT: Order Now,Matched Price
+computers5,167.0,26,1.6377952755905512,URGENT: Order Now,Premium (Higher than Comp)
+garden10,179.7,62,2.5370843989769822,URGENT: Order Now,Matched Price
+computers6,3307.800001,27,0.7883211678832117,URGENT: Order Now,Budget (Lower than Comp)
+health6,185.97,27,1.26,URGENT: Order Now,Premium (Higher than Comp)
+garden6,239.6,88,2.909090909090909,URGENT: Order Now,Matched Price
+health10,994.51578954,43,1.9419354838709677,URGENT: Order Now,Premium (Higher than Comp)
+watches2,789.95,51,5.239726027397261,URGENT: Order Now,Budget (Lower than Comp)
+health1,254.96999999999997,86,6.344262295081967,URGENT: Order Now,Premium (Higher than Comp)
+garden8,179.99,31,3.6779661016949152,URGENT: Order Now,Matched Price
+garden9,179.7,10,0.4557640750670241,URGENT: Order Now,Matched Price
+watches6,652.0,95,4.117647058823529,URGENT: Order Now,Matched Price
+cool3,29.5,30,1.842105263157895,URGENT: Order Now,Budget (Lower than Comp)
+perfumery2,142.5,59,7.235849056603774,Warning: Monitor,Premium (Higher than Comp)
+cool2,1039.92,2,0.2184873949579832,URGENT: Order Now,Premium (Higher than Comp)
+computers1,379.6,98,10.575539568345322,Warning: Monitor,Matched Price
+consoles2,19.9,13,1.3402061855670104,URGENT: Order Now,Matched Price
+health5,2799.2,75,9.615384615384615,Warning: Monitor,Matched Price
+watches8,479.8,47,4.017094017094017,URGENT: Order Now,Premium (Higher than Comp)
+furniture4,99.9,92,9.10891089108911,Warning: Monitor,Premium (Higher than Comp)
+watches5,1839.2,98,6.8531468531468525,URGENT: Order Now,Premium (Higher than Comp)
+health7,64.99,24,2.0779220779220777,URGENT: Order Now,Matched Price
+bed3,792.0,38,3.7657657657657655,URGENT: Order Now,Premium (Higher than Comp)
+garden3,99.99,56,7.1489361702127665,Warning: Monitor,Matched Price
+bed2,179.8,50,1.9507186858316221,URGENT: Order Now,Matched Price
+furniture3,38.4,59,7.298969072164948,Warning: Monitor,Budget (Lower than Comp)
+watches4,1404.0,12,0.5333333333333333,URGENT: Order Now,Budget (Lower than Comp)
+watches3,78.0,89,8.34375,Warning: Monitor,Matched Price
+furniture2,375.0,63,1.5540796963946868,URGENT: Order Now,Matched Price
+garden2,299.5,77,10.307086614173228,Warning: Monitor,Matched Price
+furniture1,38.4,22,1.6923076923076923,URGENT: Order Now,Budget (Lower than Comp)
+health2,1950.0,3,0.2,URGENT: Order Now,Premium (Higher than Comp)
+garden1,99.99,32,3.891891891891892,URGENT: Order Now,Matched Price
+cool1,599.9299999699999,1,0.125,URGENT: Order Now,Matched Price
+computers4,479.97,28,1.4780058651026393,URGENT: Order Now,Matched Price
+watches7,678.0,95,9.268292682926829,Warning: Monitor,Premium (Higher than Comp)
+computers3,2670.8571435,88,8.54368932038835,Warning: Monitor,Matched Price
+health4,29.9,75,6.021897810218978,URGENT: Order Now,Premium (Higher than Comp)
+watches1,1205.03,11,0.9639175257731959,URGENT: Order Now,Matched Price
+computers2,109.9,34,1.8579234972677594,URGENT: Order Now,Budget (Lower than Comp)
+bed4,1331.1,6,0.4580152671755725,URGENT: Order Now,Budget (Lower than Comp)
+bed5,215.0,28,0.9090909090909091,URGENT: Order Now,Premium (Higher than Comp)
