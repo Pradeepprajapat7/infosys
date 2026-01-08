@@ -71,17 +71,18 @@ npm start
 
 
 ### 💻 Responce of backend
-![Response](screenshot\backend.png)
+![Response](./screenshot/backend.png)
 
 
 
 ### 💻 Dashboard Screenshot(Frontend)
-![Dashboard Interface](screenshot\screenshot.png)
+![Dashboard Interface](./screenshot/screenshot.png)
 
 
 ### 1. Clone the Repository
 ```bash
 git clone [https://github.com/Pradeepprajapat7/infosys.git]
+
 
 
 
